@@ -15,6 +15,7 @@
     "info": "/user/info",
     "upload_avatar": "/user/avatar",
     "save": "/user/save",
+    "ad":"http://192.168.1.118:3000/mock/70/ad/page",
     "down_url": "https://www.baidu.com/"
   }
 }
